@@ -1,0 +1,10 @@
+Mesh type: LAND
+Nx Ny: 50 25
+Uniform Grids: YES
+Dx Dy(km): 0.2 0.2
+grid file: ./Settings/grid.dat
+Topography File: ./Settings/topo.dat
+Xstart Ystart: 0 0
+Model Type: gradient0
+Init File: ./Settings/Tomo2D/vel_inv_11.dat
+Den_start interval(kg/m3): 0 0

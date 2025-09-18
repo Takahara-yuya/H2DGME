@@ -1,0 +1,6 @@
+METHOD: MAGNETIC
+FORWARD OR INVERSION: Inv
+FORWARD SETTING FILE: ./Settings/FwdSettings
+INVERSION SETTING FILE: ./Settings/GmeInvSettings.dat
+MESH STEEING FILE: ./Settings/MeshSettings
+OBSERVED DATA FILE: ./Data/fwd_mag_data.dat

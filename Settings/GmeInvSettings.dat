@@ -1,0 +1,11 @@
+Output Result Root: Result/
+Output Tmp Root: Result/tmp/
+Output LOGFILE Root: Result/Logfile.dat
+Regularization Trade-off: 5
+Damping Factor: 0.95
+Decreasing threshold(percent): 3
+Stabilizer Function: 0
+Focusing Parameter: 0.2
+Vertical Roughness: 1
+Target Miafit: 0
+Max Iteration: 200
